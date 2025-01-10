@@ -5402,10 +5402,10 @@ devcert@^1.1.0:
     tmp "^0.0.33"
     tslib "^1.10.0"
 
-devtools-protocol@0.0.754670:
-  version "0.0.754670"
-  resolved "https://registry.yarnpkg.com/devtools-protocol/-/devtools-protocol-0.0.754670.tgz#3b2166f8fd695be92e42b4b4edd8fef388304970"
-  integrity sha512-AN4AQwYJcxrOwVzxcj9Kw5QpvzdTgrmtHGhOAgIjgDYL5D6aBZw3hdc/BpukOtWlMtdU7udrkA/FXhqpdfb6PA==
+devtools-protocol@0.0.1404580:
+  version "0.0.1404580"
+  resolved "https://registry.yarnpkg.com/devtools-protocol/-/devtools-protocol-0.0.1404580.tgz#3a561f382a5c92bd9b6bc0ca36f88fd5ac05756e"
+  integrity sha512-YZS6J8qsPYTRG74WPXuidDnpT4TVC2Dn8uRtnhrD3vFvgq1cEmIlTQpo4g/o6qphsmKKSfSMl3DE7Xh2K7rkJw==
 
 dezalgo@^1.0.0:
   version "1.0.3"
